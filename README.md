@@ -32,26 +32,26 @@ Check out the live version of the landing page hosted on Vercel.
 1. **Clone the repository**<br>
 
    bash<br>
-   `git clone https://github.com/your-username/nike-landing-page.git<br>`
-   `cd nike-landing-page<br>`
+   `git clone https://github.com/your-username/nike-landing-page.git`<br>
+   `cd nike-landing-page`<br>
    
 
 2. **Install dependencies**<br>
 
    bash<br>
-   `npm install<br>`
+   `npm install`<br>
    
 
 3. **Start the development server**<br>
 
    bash<br>
-   `npm run dev<br>`
+   `npm run dev`<br>
   <br>
 
 4. **Build for production**<br>
 
    bash<br>
-   `npm run build<br>`
+   `npm run build`<br>
 
 
 
